@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-v4-rtl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "minify --output bootstrap.rtl.min.css bootstrap.rtl.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "minifier": "^0.8.1"
+  }
+}
